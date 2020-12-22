@@ -1,6 +1,4 @@
 ### Hi, I'm Sunny 👋
-<!--
-**SunnyWangGitHub/SunnyWanggitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="center"> 
  <img src="https://profile-counter.glitch.me/SunnyWangGitHub/count.svg"/>
@@ -14,6 +12,8 @@
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=SunnyWangGitHub&layout=compact" />
 </a>
 
+<!--
+**SunnyWangGitHub/SunnyWanggitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
