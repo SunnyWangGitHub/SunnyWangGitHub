@@ -1,8 +1,5 @@
 ### Hi, I'm Sunny 👋
 
-<p align="center"> 
- <img src="https://profile-counter.glitch.me/SunnyWangGitHub/count.svg"/>
-</p>
 
 <a href="https://github.com/LogicJake">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=SunnyWangGitHub&show_icons=truet&include_all_commits=True&hide=contribs"/>
